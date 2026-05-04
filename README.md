@@ -15,7 +15,7 @@ This analysis provides GlowCo's leadership with an interactive analytics dashboa
 * Investigate return patterns by category and quantify their financial impact on the business
 
 # Dashboard Pages
-# Pages 1 - Sales Overview
+# Page 1 - Sales Overview
 <img width="590" height="356" alt="image" src="https://github.com/user-attachments/assets/f1385630-7ba1-4bfe-a8f9-4cd50cd848c2" />
 
 The visuals included are:
@@ -26,7 +26,7 @@ The visuals included are:
 * Category Profit Ranking by Quarter — Ribbon Chart
 * Order Status Breakdown — Donut Chart
 
-# Pages 2 - Customer, Channels & Market
+# Page 2 - Customer, Channels & Market
 <img width="660" height="359" alt="image" src="https://github.com/user-attachments/assets/93bf450e-a855-4041-ba35-890061db3da4" />
 
 The visuals included are:
