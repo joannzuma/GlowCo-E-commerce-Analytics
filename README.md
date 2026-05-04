@@ -14,6 +14,30 @@ This analysis provides GlowCo's leadership with an interactive analytics dashboa
 * Track inventory levels and flag products at risk of stockout before they impact revenue
 * Investigate return patterns by category and quantify their financial impact on the business
 
+# Dashboard Pages
+# Pages 1 - Sales Overview
+<img width="590" height="356" alt="image" src="https://github.com/user-attachments/assets/f1385630-7ba1-4bfe-a8f9-4cd50cd848c2" />
+
+The visuals included are:
+* KPI Cards — Total Revenue, Total Cost, Gross Profit Margin %, Total Orders, YTD Growth %, Total Units Sold
+* Revenue by Product Category — Horizontal Bar Chart
+* Monthly Revenue Trend 2023 vs 2024 — Line Chart with seasonal reference lines
+* Top 6 Best Selling Products — Bar Chart with Top N filter
+* Category Profit Ranking by Quarter — Ribbon Chart
+* Order Status Breakdown — Donut Chart
+
+# Pages 2 - Customer, Channels & Market
+<img width="660" height="359" alt="image" src="https://github.com/user-attachments/assets/93bf450e-a855-4041-ba35-890061db3da4" />
+
+The visuals included are:
+* KPI Cards — Total Customers, New Customers, Returning Customers, Retention Rate, Avg Purchase Frequency
+* Customer Segment Breakdown — Donut Chart (New, Returning, Loyal, VIP)
+* New vs Returning Customer Trend — Line Chart
+* Return Reasons by Product Category — Clustered Bar Chart
+* Revenue by Sales Channel — Horizontal Bar Chart
+* Gross Profit by Country — Treemap with gradient heatmap
+* Product Units Sold by Age Group — Matrix with conditional formatting heatmap
+* Low Stock Alert — Table with traffic light conditional formatting
 
 # Key Findings
 * Serums consistently ranked as the highest revenue generating category, followed by Moisturizers
