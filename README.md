@@ -16,19 +16,19 @@ This analysis provides GlowCo's leadership with an interactive analytics dashboa
 
 
 # Key Findings
-1 Serums consistently ranked as the highest revenue generating category, followed by Moisturizers
-2 Revenue peaked in November and December across both years, confirming strong Black Friday and Christmas seasonal demand
-3 Peptide Firming Serum was the single best selling product by total revenue
-4 88.6% of all orders were completed successfully, reflecting strong product-market fit
-5 74% customer retention rate signals strong brand loyalty — Returning, Loyal and VIP segments dominate 
-6 Website is the top revenue channel, followed by Instagram Shop and the fast-growing TikTok Shop
-7 United States, Canada and United Kingdom are the highest gross profit contributing markets
-8 Skin Reaction and Wrong Product are the leading return reasons across categories
-9 Several SKUs including Retinol Night Serum and SPF lines have fallen below reorder level, risking stockouts
+* Serums consistently ranked as the highest revenue generating category, followed by Moisturizers
+* Revenue peaked in November and December across both years, confirming strong Black Friday and Christmas seasonal demand
+* Peptide Firming Serum was the single best selling product by total revenue
+* 88.6% of all orders were completed successfully, reflecting strong product-market fit
+* 74% customer retention rate signals strong brand loyalty — Returning, Loyal and VIP segments dominate 
+* Website is the top revenue channel, followed by Instagram Shop and the fast-growing TikTok Shop
+* United States, Canada and United Kingdom are the highest gross profit contributing markets
+* Skin Reaction and Wrong Product are the leading return reasons across categories
+* Several SKUs including Retinol Night Serum and SPF lines have fallen below reorder level, risking stockouts
 
 # Recommendation
-1 Increase inventory for Serums and Moisturizers ahead of Q4 to prevent stockouts during peak season
-2 Launch targeted Black Friday and Christmas campaigns earlier in October to capture pre-season demand
-3 Invest in VIP and Loyal segment loyalty programs to further increase retention and lifetime value
-4 Allocate more marketing budget to TikTok Shop given its growing revenue contribution trend
-5 Review product descriptions and formulations for categories with high Skin Reaction return rates
+* Increase inventory for Serums and Moisturizers ahead of Q4 to prevent stockouts during peak season
+* Launch targeted Black Friday and Christmas campaigns earlier in October to capture pre-season demand
+* Invest in VIP and Loyal segment loyalty programs to further increase retention and lifetime value
+* Allocate more marketing budget to TikTok Shop given its growing revenue contribution trend
+* Review product descriptions and formulations for categories with high Skin Reaction return rates
