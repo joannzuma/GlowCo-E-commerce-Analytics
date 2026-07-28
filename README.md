@@ -1,5 +1,5 @@
 # GlowCo-E-commerce-Analytics
-Power BI analytics dashboard for GlowCo, a beauty &amp; skincare e-commerce brand — covering sales performance, customer intelligence and market insights (Yr 2023-2024)
+Power BI analytics dashboard for GlowCo, a beauty skincare e-commerce brand - covering sales performance, customer intelligence and market insights (Yr 2023-2024)
 
 # Problem Statement
 GlowCo operates across multiple sales channels and global markets but lacks a centralized, data-driven system to monitor business performance, understand customer behaviour and identify revenue risks in real time.
